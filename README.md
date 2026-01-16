@@ -17,3 +17,9 @@ I am a Computer Science student at the University of Cincinnati expecting to gra
 - **LinkedIn:** https://www.linkedin.com/in/isaac-dowdy/
 - **GitHub:** https://github.com/isaac-dowdy
 - **Email:** isdowdy@outlook.com
+
+**Resume:** [Download PDF](assets/Dowdy_Resume_01.15.26.pdf)
+
+<p align="left">
+  <img src="images/IMG_4909(2).JPG" width="250">
+</p>
